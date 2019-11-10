@@ -1,10 +1,10 @@
-# [Tvořím web od A do Z](https://github.com/TvorimWeb-2018-Praha/tvorim-web-a-z): Podklady pro 8. lekci
+# [Tvořím web od A do Z](https://github.com/czechitas/tvorim-web-a-z): Podklady pro 7. lekci
 
-Krátký odkaz na stažení: [is.gd/lekce8](https://is.gd/lekce8)
+Krátký odkaz na stažení: [bit.ly/webaz-lekce7](https://bit.ly/webaz-lekce7)
 
 ## Příklady
 
-- [Layout](priklady/01-layout)
+- [album](priklady/01-album)
 - [CSS Variables](priklady/02-variables)
 
 ## Odkazy
